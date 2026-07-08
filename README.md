@@ -16,7 +16,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nikko-phishing-tool.git
+git clone https://github.com/Zenithcyb/nikko-phishing-tool.git
 cd nikko-phishing-tool
 chmod +x nikko.sh
 ./nikko.sh
